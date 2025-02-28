@@ -1,0 +1,6 @@
+Hello, this is a text file created synchronously with Node.js!Hello, this is a text file created synchronously with Node.js!
+Hello, this is a text file created synchronously with Node.js!
+Hello, this is a text file created synchronously with Node.js!
+Hello, this is a text file created synchronously with Node.js!
+Hello, this is a text file created synchronously with Node.js!
+Hello, this is a text file created synchronously with Node.js!
